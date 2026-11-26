@@ -1,0 +1,4 @@
+node_modules/
+**/snaps/
+*.log
+.DS_Store
