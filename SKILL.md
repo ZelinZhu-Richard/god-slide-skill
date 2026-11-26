@@ -7,6 +7,8 @@ description: Cinematic WebGL slide decks in one HTML file. Use for god or cinema
 
 Builds a presentation where every slide is a rendered picture: real-time 3D worlds (Three.js), kinetic type, film-grade transitions, a counter that narrates, speaker notes with stage directions, all paced by the presenter one beat at a time. The output is **one self-contained, offline HTML file** that you open full screen and present. The craft comes from studying a deck called *The Last Boring Slide*; `references/storytelling.md` has the case study.
 
+If the user wants an editable PowerPoint, Google Slides or Keynote file, or a plain everyday deck they will edit themselves, this skill is the wrong tool: use the normal slide route instead.
+
 ## Pick the mode first (say which one in your first line)
 
 | | **normal** (default) | **supreme** |
